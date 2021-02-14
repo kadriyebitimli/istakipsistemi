@@ -1,2 +1,1 @@
-
 İŞ TAKİP SİSTEMİ ASP .NET MVC
